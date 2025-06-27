@@ -15,7 +15,7 @@ A responsive, real-time weather forecast web application built using *HTML, CSS,
 - OpenWeatherMap API
 
 ## 🔗 Live Demo
-[Click here to view live](https://architarout.github.io/Weather-App/) <!-- If deployed -->
+https://architarout.github.io/Weather-App/
 
 ## 📁 Project Status
 ✅ Complete | 🚀 Version 1 Deployed
